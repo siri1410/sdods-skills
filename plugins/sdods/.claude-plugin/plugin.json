@@ -1,6 +1,6 @@
 {
   "name": "sdods",
-  "version": "0.5.2",
+  "version": "0.7.0",
   "description": "SDODS for Claude Code: BDD test automation for UI, API and hybrid flows. Run, plan, generate, heal and review tests with the SDODS MCP server, skills and subagents.",
   "author": {
     "name": "SDODS",

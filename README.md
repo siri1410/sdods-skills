@@ -5,7 +5,7 @@ Skills, subagents and the MCP server that let AI coding agents write, run, heal 
 
 SDODS is free: Apache-2.0 on npm (`@sdods/cli`), unlimited API tokens, no paid tier.
 
-> Generated from the SDODS monorepo by `scripts/build-agent-plugin.ts` (version 0.5.2).
+> Generated from the SDODS monorepo by `scripts/build-agent-plugin.ts` (version 0.7.0).
 > Changes made directly in this repository are overwritten on the next release.
 
 ## Claude Code plugin
