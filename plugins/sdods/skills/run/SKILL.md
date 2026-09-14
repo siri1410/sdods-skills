@@ -1,6 +1,8 @@
 ---
 name: run
 description: Run SDODS test suites for a project across environments, layers (ui/api/hybrid/recorded), browsers, suites (@smoke/@regression) and user roles, then read the results. Use when the user says "run the tests", "smoke on staging", "regression on all browsers", "run as <role>", or asks what failed.
+metadata:
+  internal: true
 ---
 
 # SDODS run skill

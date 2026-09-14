@@ -3,6 +3,8 @@ name: generate
 description: Turn a plan, a goal or a recorded spec into SDODS features, steps and page objects, proposed for review.
 argument-hint: '<plan path, goal or recorded spec> [project]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Use the `sdods-generator` subagent to generate SDODS tests from: $ARGUMENTS

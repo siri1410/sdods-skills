@@ -3,6 +3,8 @@ name: setup
 description: Check that SDODS is ready in this project — CLI, Node, browsers, workspace and MCP server — and fix what is missing.
 argument-hint: '[project-slug]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Get SDODS working in the current project. Project hint from the user: $ARGUMENTS

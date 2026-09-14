@@ -3,6 +3,8 @@ name: upgrade
 description: Map application or API changes to the SDODS scenarios they affect and propose updates.
 argument-hint: '[git range, PR or changed paths] [project]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Use the `sdods-upgrader` subagent to update tests for: $ARGUMENTS

@@ -3,6 +3,8 @@ name: review
 description: Review SDODS feature files for tagging, step reuse, data-driven refactors and best practices.
 argument-hint: '[feature path, module or project]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Use the `sdods-reviewer` subagent to review: $ARGUMENTS

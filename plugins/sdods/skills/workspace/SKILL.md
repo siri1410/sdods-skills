@@ -1,6 +1,8 @@
 ---
 name: workspace
 description: Work in an SDODS test-automation workspace — BDD features for UI, API and hybrid flows. Use when writing, fixing or reviewing Gherkin features, steps, page objects or project/env YAML, running suites, reading results, or using the sdods CLI or its MCP tools.
+metadata:
+  internal: true
 ---
 
 # SDODS

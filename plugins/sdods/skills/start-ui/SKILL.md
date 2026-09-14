@@ -1,6 +1,8 @@
 ---
 name: start-ui
 description: Start the SDODS web UI on any OS and get the first user signed in. Use when someone says "start the UI", "open the dashboard", "run the web app", "sdods serve", "I can't log in", "it says the web UI is not available", "port 4444 in use", "how do I register", or is onboarding onto SDODS for the first time.
+metadata:
+  internal: true
 ---
 
 # Start the SDODS web UI

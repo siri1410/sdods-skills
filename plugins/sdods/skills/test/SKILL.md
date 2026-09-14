@@ -3,6 +3,8 @@ name: test
 description: Run an SDODS test slice (project, environment, layer, browser, tags) and summarise what passed, failed and was healed.
 argument-hint: '<project> [env] [tags e.g. @smoke] [layer ui|api|hybrid]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Run SDODS tests for: $ARGUMENTS

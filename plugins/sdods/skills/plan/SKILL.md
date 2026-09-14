@@ -3,6 +3,8 @@ name: plan
 description: Plan tests for a feature area with the SDODS planner — a tagged scenario plan saved as a proposal.
 argument-hint: '<feature area or URL> [project]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Use the `sdods-planner` subagent to plan tests for: $ARGUMENTS

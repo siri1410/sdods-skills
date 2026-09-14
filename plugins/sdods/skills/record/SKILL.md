@@ -1,6 +1,8 @@
 ---
 name: record
 description: Record a browser flow with SDODS for a given project, environment, user role and device, save it as a runnable spec, replay it, and optionally convert it into a Gherkin feature with reusable steps. Use when the user says "record", "codegen", "capture a flow", "re-record as <role>", or wants the same flow recorded across environments or users.
+metadata:
+  internal: true
 ---
 
 # SDODS record & playback skill

@@ -3,6 +3,8 @@ name: heal
 description: Diagnose a failing SDODS scenario and propose the smallest locator or step fix. Defaults to the last failed run.
 argument-hint: '[scenario name or fingerprint] [project]'
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 Use the `sdods-healer` subagent to fix: $ARGUMENTS
