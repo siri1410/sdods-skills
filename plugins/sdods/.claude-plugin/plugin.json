@@ -1,0 +1,21 @@
+{
+  "name": "sdods",
+  "version": "0.5.2",
+  "description": "SDODS for Claude Code: BDD test automation for UI, API and hybrid flows. Run, plan, generate, heal and review tests with the SDODS MCP server, skills and subagents.",
+  "author": {
+    "name": "SDODS",
+    "email": "admin@sdods.com",
+    "url": "https://sdods.com"
+  },
+  "homepage": "https://docs.sdods.com/docs/guides/ai-coding-tools/",
+  "repository": "https://github.com/siri1410/sdods-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "testing",
+    "bdd",
+    "playwright",
+    "gherkin",
+    "api-testing",
+    "mcp"
+  ]
+}

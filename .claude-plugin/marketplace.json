@@ -1,0 +1,27 @@
+{
+  "name": "sdods",
+  "owner": {
+    "name": "SDODS",
+    "email": "admin@sdods.com"
+  },
+  "metadata": {
+    "description": "Official SDODS plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "sdods",
+      "source": "./plugins/sdods",
+      "description": "SDODS for Claude Code: BDD test automation for UI, API and hybrid flows. Run, plan, generate, heal and review tests with the SDODS MCP server, skills and subagents.",
+      "version": "0.5.2",
+      "category": "testing",
+      "keywords": [
+        "testing",
+        "bdd",
+        "playwright",
+        "gherkin",
+        "api-testing",
+        "mcp"
+      ]
+    }
+  ]
+}
